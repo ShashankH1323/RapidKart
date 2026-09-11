@@ -21,3 +21,7 @@ In the highly competitive quick-commerce space, cart abandonment is the primary 
 * `queries.sql`: SQL scripts used to generate the funnel drop-off metrics.
 * `analysis.py`: Python script to parse the funnel data and calculate the drop-off percentages.
 * `data/`: Mock event-stream dataset for the checkout funnel.
+
+---
+## 📊 Dataset Reference
+This project was modeled using the principles and structures found in the [eCommerce Events History in Cosmetics Shop](https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop) dataset, tracking detailed step-by-step user interaction funnels.
